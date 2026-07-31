@@ -1,93 +1,127 @@
-# talent-tracker-pm-portfolio
-# Talent Tracker – Project Management Case Study
+# Talent Tracker – Project Management Portfolio
 
-## Overview
-This repository contains project management artifacts created after the completion of the Talent Tracker academic project. The purpose is to demonstrate project planning, documentation, risk management, scheduling, and stakeholder management using the completed project as a case study.
+## Project Management Case Study
 
-> *Note:* The project management artifacts in this repository were created after project completion as a learning exercise to demonstrate project management practices. They were not part of the original academic project execution.
+This repository presents a *Project Management Portfolio* developed using the *Talent Tracker* academic project as a case study. The portfolio demonstrates how project management practices can be applied to a completed software project through structured planning, scope definition, scheduling, risk management, and project documentation.
 
----
-
-## Project Summary
-
-*Project Name:* Talent Tracker
-
-*Project Type:* Academic Team Project (3 Members)
-
-*Role:* Team Member
-
-*Project Duration:* Final Year Academic Project
+> *Note*
+> The project management artifacts in this repository were created *after the completion of the academic project* as a learning exercise to demonstrate project management principles. They do not represent documents that were used during the original project execution.
 
 ---
 
-## Objective
+# Project Overview
 
-Talent Tracker helps students and job seekers by providing AI-powered tools to:
+*Talent Tracker* is an AI-powered career development platform designed to help students and job seekers prepare for employment by providing intelligent career assistance tools.
 
-- Resume Builder
-- AI Cover Letter Generator
+### Key Features
+
+- AI-powered Resume Builder
+- AI-generated Cover Letter
 - Industry Insights
-- Authentication
+- Secure Authentication
 - User Dashboard
+- Responsive Web Application
 
 ---
 
-## Technology Stack
+# Business Problem
 
-- Next.js
-- Tailwind CSS
-- Clerk Authentication
-- Prisma ORM
-- Neon Database
-- Gemini AI API
-- Git & GitHub
-- Vercel
+Job seekers often use multiple platforms to create resumes, write cover letters, and research industries. Talent Tracker addresses this challenge by bringing these capabilities into a single AI-powered application.
 
 ---
 
-## Project Management Documents
+# My Role
 
-These documents will be added progressively.
+This was a *three-member academic team project*.
+
+My primary responsibilities included:
+
+- AI Integration
+- GitHub Repository Management
+- Project Documentation
+- Deployment using Vercel
+- Testing Support
+
+---
+
+# Technology Stack
+
+| Category | Technologies |
+|-----------|--------------|
+| Frontend | Next.js, Tailwind CSS |
+| Backend | Prisma ORM |
+| Authentication | Clerk |
+| Database | Neon Database |
+| AI | Gemini AI |
+| Version Control | Git, GitHub |
+| Deployment | Vercel |
+
+---
+
+# Project Management Documents
 
 | Document | Status |
 |----------|--------|
-| Project Charter | ⏳ |
-| Scope Statement | ⏳ |
-| Work Breakdown Structure | ⏳ |
-| Stakeholder Register | ⏳ |
-| Project Timeline | ⏳ |
-| Risk Register | ⏳ |
-| Communication Plan | ⏳ |
-| RAID Log | ⏳ |
-| Project Dashboard | ⏳ |
-| Lessons Learned | ⏳ |
+| Project Charter | ✅ |
+| Project Scope Statement | ✅ |
+| Work Breakdown Structure | ✅ |
+| Project Timeline | ✅ |
+| Risk Register | ✅ |
+| Lessons Learned | ✅ |
 
 ---
 
-## Repository Structure
+# Skills Demonstrated
 
-
-docs/
-images/
-README.md
-
-
----
-
-## Skills Demonstrated
-
+### Project Management
 - Project Planning
 - Scope Management
 - Risk Management
-- Stakeholder Management
-- Software Development Lifecycle (SDLC)
-- Agile Project Management (Conceptual)
+- Scheduling
+- Work Breakdown Structure
 - Documentation
+
+### Technical
+- AI Integration
+- Version Control
+- Deployment
+- Software Development Lifecycle
 - Team Collaboration
 
 ---
 
-## Contact
-GitHub: (Add your GitHub profile link later)
+# Repository Structure
 
-LinkedIn: (Add your LinkedIn profile later)
+text
+talent-tracker-pm-portfolio/
+│
+├── README.md
+├── docs/
+├── images/
+└── assets/
+
+
+---
+
+# Future Improvements
+
+The following artifacts will be added in future updates:
+
+- Gantt Chart
+- Project Dashboard
+- Stakeholder Matrix
+- Communication Plan
+
+---
+
+# Disclaimer
+
+This repository has been prepared for educational and portfolio purposes to demonstrate project management concepts using a completed academic software project as a case study.
+
+---
+
+## Contact
+
+*GitHub:* https://github.com/ayu0629
+
+*LinkedIn:* https://www.linkedin.com/in/ayushi-agarwal-29june

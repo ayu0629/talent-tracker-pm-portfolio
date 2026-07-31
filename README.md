@@ -94,7 +94,3 @@ README.md
 GitHub: (Add your GitHub profile link later)
 
 LinkedIn: (Add your LinkedIn profile later)
-
-GitHub: (Add your GitHub profile link later)
-
-LinkedIn: (Add your LinkedIn profile later)

@@ -1,11 +1,8 @@
 # talent-tracker-pm-portfolio
-# Talent Tracker – Project Management Portfolio
+# Talent Tracker – Project Management Case Study
 
 ## Overview
-
-This repository contains the project management portfolio for *Talent Tracker*, an AI-powered career development platform developed as a final-year academic project.
-
-The purpose of this repository is to demonstrate how project management principles can be applied to a software development project by documenting project planning, scope management, stakeholder analysis, scheduling, risk management, and communication.
+This repository contains project management artifacts created after the completion of the Talent Tracker academic project. The purpose is to demonstrate project planning, documentation, risk management, scheduling, and stakeholder management using the completed project as a case study.
 
 > *Note:* The project management artifacts in this repository were created after project completion as a learning exercise to demonstrate project management practices. They were not part of the original academic project execution.
 
